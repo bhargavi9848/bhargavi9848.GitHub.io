@@ -5,7 +5,7 @@
 ### Learn About My Projects
 
 #### [Data Visualizatioon with D3](/bank)
-<img src="d3.png?raw=true"/>
+<img src="image/d3.png?raw=true"/>
 
 ---
 #### [Linked File Project](/files/Day 12 - 21 days to data.pdf)
