@@ -4,9 +4,8 @@
 
 ### Learn About My Projects
 
-#### [Internal Blog Post Project](/bank)
-<img src=""/>
-Tolulope is the best
+#### [Data Visualizatioon with D3](/bank)
+<img src="d3.png"/>
 
 ---
 #### [Linked File Project](/files/Day 12 - 21 days to data.pdf)
